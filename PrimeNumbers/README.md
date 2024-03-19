@@ -1,0 +1,1 @@
+You don't need to look much at the PrimeNumbers class, as long as you know what each method does. A sample program has been written in the Main class which finds the first _n_ prime numbers.
